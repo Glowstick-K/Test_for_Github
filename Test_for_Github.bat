@@ -1,2 +1,2 @@
 @echo on 
-echo Test >> "Hallo Welt"cl
+echo Test >> "Hallo Welt"
